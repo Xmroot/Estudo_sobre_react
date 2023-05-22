@@ -1,0 +1,14 @@
+.splash-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #091B1E;
+  height: 100vh; /* ou um valor específico em pixels */
+  width: 100%; /* ou um valor específico em pixels */
+}
+  
+.splash-image {
+    width: 200px;
+    height: 200px;
+}
+  
